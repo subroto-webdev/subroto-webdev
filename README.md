@@ -21,5 +21,5 @@
 - Next.js Web App (Coming Soon)
 
 ## 📫 Connect with me
-- Facebook: (your link)
-- Email: (your email)
+- Facebook:https://www.facebook.com/
+- Email:student0cse11@gmail.com
