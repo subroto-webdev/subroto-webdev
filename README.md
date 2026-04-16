@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, This is Subroto Roy 👋
 
-<!--
-**subroto-webdev/subroto-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer  
+🚀 Focused on MERN Stack Development  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- JavaScript
+- React.js ⚛️
+- Next.js 🚀
+- Node.js 🌐
+- MongoDB 🍃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack (MERN)
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+## 📌 Projects
+- MERN Stack Project (Coming Soon)
+- Next.js Web App (Coming Soon)
+
+## 📫 Connect with me
+- Facebook: (your link)
+- Email: (your email)
