@@ -1,38 +1,51 @@
 <h1 align="center">Subroto Roy</h1>
-<p align="center">Full Stack Developer · MERN Stack · Next.js · Building scalable web apps</p>
+<p align="center">
+  Full Stack Web Developer · MERN Stack · Next.js
+  <br/>
+  <em>Crafting clean, scalable web applications from idea to deployment</em>
+</p>
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center"><b>MERN</b><br/><sub>Primary stack</sub></td>
-    <td align="center"><b>Next.js</b><br/><sub>Frontend framework</sub></td>
-    <td align="center"><b>1</b><br/><sub>Live project</sub></td>
-  </tr>
-</table>
+## About me
+
+I'm a full stack web developer specializing in the MERN stack and Next.js. I focus on writing maintainable code and building applications that are fast, reliable, and easy to use. I take pride in understanding both the backend logic and frontend experience that make a product great.
+
+- 🔭 Currently developing full stack projects with **React**, **Next.js**, and **Node.js**
+- 🌱 Continuously improving my skills in **system design**, **REST API architecture**, and **database optimization**
+- 🤝 Open to collaborating on meaningful open-source or freelance web projects
+- 📫 Best way to reach me: **student0cse11@gmail.com**
 
 ---
 
-**Tech Stack**
+## 🛠️ Tech stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-**Projects**
-
-🎓 **[Polytechnic Attendance System](https://polyatted-system-frontend.vercel.app/login)**
-> Attendance management system for polytechnic institutions — student tracking, records & reporting.
-> `MERN` `Vercel` · [Live Demo →](https://polyatted-system-frontend.vercel.app/login)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-**Get in touch**
+## 🚀 Projects
 
-[![Email](https://img.shields.io/badge/student0cse11@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:student0cse11@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/)
+### 🎓 Polytechnic Attendance System
+> A comprehensive attendance management platform built for polytechnic institutions. It enables administrators to efficiently track student attendance, manage records, and generate detailed reports — reducing manual effort and improving institutional accountability.
+
+**Stack:** MongoDB · Express.js · React · Node.js · Vercel
+🔗 [Live Demo](https://polyatted-system-frontend.vercel.app/login)
+
+---
+
+### 📌 More coming soon...
+- MERN Stack Project *(in progress)*
+- Next.js Web App *(in progress)*
+
+---
+
+## 📫 Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:student0cse11@gmail.com)
